@@ -1,0 +1,28 @@
+h1 {
+    color: #41a097;
+    /* border-color: green; */
+    /* border-width: 5px; */
+    /* border-style: dashed; */
+    /*  */
+    border: 5px solid green;
+
+}
+p {
+    text-align: center;
+}
+li {
+    color: green;
+}
+
+
+body{
+/* background: url(http://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1397330923i/9263950._SX540_.jpg); */
+/* background-repeat: no-repeat; */
+/* background-size: cover; */
+/* */
+
+background: #0e497a;
+}
+
+    
+

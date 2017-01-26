@@ -1,0 +1,18 @@
+body {
+    background: yellow;
+}
+li{
+    color: red;
+}
+
+#special {
+    color: blue;
+}
+
+.highlight {
+    color: pink;
+}
+
+.compleated {
+    text-decoration: line-through;
+}

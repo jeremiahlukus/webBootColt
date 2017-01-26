@@ -1,0 +1,19 @@
+/* ul { */
+/*     color: purple; */
+/* } */
+/*  */
+body {
+    color: red;
+}
+
+ul {
+    color: blue
+}
+
+.highlight {
+    color: yellow;
+}
+
+#special {
+    color: pink;
+}
