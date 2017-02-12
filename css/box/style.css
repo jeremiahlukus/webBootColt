@@ -1,0 +1,27 @@
+p {
+    /* content - Width and height */
+    width: 200px; /* can do 50% */
+    height: 20px;
+    /* borders */
+
+    border: 2px solid blue;
+
+    /* padding space beteen element and border*/
+
+  /* padding: 10px; */
+
+    padding-left: 40px;
+
+    /* margine space outside of the border */
+   /* margin: 100px;*/
+   /* margin-top: 50px; */
+    /* top right bottom left */
+  /*  margin: 20px 40px 200px 100px;*/
+  /*  margin: 0 auto 0 auto; */
+    /* centers is for us */
+ /*   margin: 0 auto; */
+    margin: 50px 20px;
+    /* adds 50px to top and bottom and 20 to left and right*/
+
+
+}
