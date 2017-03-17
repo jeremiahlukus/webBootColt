@@ -1,0 +1,13 @@
+.makeBlue{
+    color: blue;
+    border: 10px solid red;
+}
+
+#highlight {
+    background-color: yellow;
+}
+
+.makePurple{
+    color: purple;
+    font-weight: 900;
+}
